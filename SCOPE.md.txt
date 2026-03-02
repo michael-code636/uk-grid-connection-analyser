@@ -1,0 +1,42 @@
+# UK Grid Connection Deliverability Analyser
+
+## Problem
+
+Great Britain's electricity connections queue reached 701 GW (transmission + distribution) as of March 2024, with Ofgem warning it could reach 800 GW by end-2024. Some customers have been offered connection dates in the late 2030s.
+
+NESO's connections reform has moved from "first-come" to "readiness + need", but visibility gaps remain.
+
+## What I'm Building
+
+A reproducible, versioned tool that:
+
+- Pulls public queue and capacity data from NESO and DNO sources
+- Scores deliverability transparently (rules + weights, explainable)
+- Flags risks early (projects likely to stall or churn)
+- Finds bottleneck patterns (by region, technology, TO/DNO area)
+- Maps clustering opportunities (shared reinforcement candidates)
+
+## What I'm NOT Building
+
+- A regulatory decision tool
+- A replacement for NESO's official queue management
+- A commercial product
+- Anything using private or scraped data
+
+## Success Metrics
+
+- Working data pipeline pulling live NESO data
+- Transparent scoring model with documented logic
+- Dashboard answering: "What changed? Why is this project ranked here?"
+- Auto-generated weekly decision memo with evidence links
+
+## Data Sources
+
+- NESO TEC Register (CKAN API)
+- NESO Embedded Register (CKAN API)
+- GSP boundary GeoJSON
+- SP Energy Networks capacity data (Opendatasoft)
+
+## Timeline
+
+January - October 2026

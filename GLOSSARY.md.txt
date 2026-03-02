@@ -1,0 +1,31 @@
+# Glossary
+
+## TEC (Transmission Entry Capacity)
+The amount of power (in MW) that a generator or project is allowed to export onto the transmission network. This is what you're "queuing" for when you apply to connect.
+
+## GSP (Grid Supply Point)
+The point where the transmission network connects to a local distribution network. Think of it as the "handoff point" between national and regional grids.
+
+## DNO (Distribution Network Operator)
+Companies that own and operate the local electricity networks that deliver power to homes and businesses. Examples: UK Power Networks, SP Energy Networks, Northern Powergrid.
+
+## TO (Transmission Owner)
+Companies that own the high-voltage transmission network. In GB: National Grid Electricity Transmission (England/Wales), SP Transmission (South Scotland), SSEN Transmission (North Scotland).
+
+## NESO (National Energy System Operator)
+The independent body responsible for operating the GB electricity system and managing the connections queue. Separated from National Grid in 2024.
+
+## MW (Megawatt)
+Unit of power. 1 MW can power roughly 1,000 homes. Projects in the queue range from a few MW to several thousand MW.
+
+## TMO4+ (Transmission Milestone Obligation 4+)
+Part of NESO's connections reform. Projects must meet readiness milestones to keep their queue position. Shifts from "first-come-first-served" to "ready and needed first."
+
+## Connection Queue
+The list of projects waiting to connect to the electricity grid. Currently at 700+ GW – far more than the UK actually needs – causing multi-year delays.
+
+## Constraint
+When the network can't handle all the power that generators want to export. Causes delays and requires expensive reinforcement.
+
+## Reinforcement
+Upgrades to the network (new cables, substations, etc.) to increase capacity. Often takes years and millions of pounds.

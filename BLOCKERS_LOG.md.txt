@@ -1,0 +1,15 @@
+# Blockers Log
+
+Track problems encountered and how they were resolved.
+
+---
+
+## 2 March 2026
+
+**Blocker:** Git clone failed - "repository not found"
+**Cause:** Typed wrong username (code036 instead of code636)
+**Resolution:** Used correct URL from GitHub green "Code" button
+
+---
+
+(Add future blockers below)
